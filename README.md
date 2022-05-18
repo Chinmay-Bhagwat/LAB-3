@@ -2,8 +2,8 @@ Created an angular calculator with simple arithmatic functions
 
 How to run:
 
-ng new app name
+1) ng new app name
 
-ng serve
+2) ng serve
 
-install angular cli if required : npm install -g @angular/cli
+3) install angular cli if required : npm install -g @angular/cli
