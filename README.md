@@ -1,4 +1,4 @@
-Created an angular calculator with simple arithmatic functions
+Created a responsive website with simple html css code 
 
 How to run:
 
